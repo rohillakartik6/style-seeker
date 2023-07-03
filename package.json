@@ -18,7 +18,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "homepage" : "https://rohillakartik6.github.io/style-seeker/",
+    "homepage" : "https://rohillakartik6.github.io/style-seeker",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
